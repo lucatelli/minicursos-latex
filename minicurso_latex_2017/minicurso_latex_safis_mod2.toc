@@ -1,0 +1,13 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {brazil}
+\beamer@sectionintoc {1}{Ambientes}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Listas}{6}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{1}{Listas por itens}{6}{0}{1}
+\beamer@subsubsectionintoc {1}{1}{2}{Lista ordenadas}{10}{0}{1}
+\beamer@subsectionintoc {1}{2}{Alinhamento}{16}{0}{1}
+\beamer@subsectionintoc {1}{3}{Express\IeC {\~o}es Matem\IeC {\'a}ticas}{18}{0}{1}
+\beamer@sectionintoc {2}{Tabelas}{40}{0}{2}
+\beamer@subsectionintoc {2}{1}{Criando Tabelas}{41}{0}{2}
+\beamer@sectionintoc {3}{Figuras}{49}{0}{3}
+\beamer@subsectionintoc {3}{1}{Inserindo Figuras}{50}{0}{3}
+\beamer@sectionintoc {4}{Referenciando objetos}{59}{0}{4}

@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.36pt}
+\select@language {brazil}
+\beamer@sectionintoc {1}{Motiva\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@sectionintoc {2}{Instala\IeC {\c c}\IeC {\~a}o}{11}{0}{2}
+\beamer@sectionintoc {3}{Conhecendo o compilador}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Texstudio}{15}{0}{3}
+\beamer@sectionintoc {4}{Estrutura de um documento}{16}{0}{4}
+\beamer@subsectionintoc {4}{1}{Pre\IeC {\^a}mbulo}{19}{0}{4}
+\beamer@subsectionintoc {4}{2}{Corpo}{22}{0}{4}
+\beamer@sectionintoc {5}{Formata\IeC {\c c}\IeC {\~a}o de texto}{25}{0}{5}
+\beamer@subsectionintoc {5}{1}{Comandos de texto}{27}{0}{5}
+\beamer@subsectionintoc {5}{2}{Formata\IeC {\c c}\IeC {\~a}o e ajuste de texto}{32}{0}{5}
+\beamer@subsectionintoc {5}{3}{Secionando o documento}{39}{0}{5}
+\beamer@sectionintoc {6}{Exerc\IeC {\'\i }cio com a classe \texttt {article}}{41}{0}{6}

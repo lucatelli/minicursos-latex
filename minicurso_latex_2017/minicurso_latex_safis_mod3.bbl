@@ -1,0 +1,48 @@
+\begin{thebibliography}{}
+
+\bibitem[{Google}, 2017]{google}
+{Google} (2017).
+\newblock \url{https://www.google.com}.
+\newblock [Online].
+
+\bibitem[Lees-Miller, 2015a]{miller2015_a}
+Lees-Miller, D.~J. (2015a).
+\newblock An interactive introduction to latex, part 1: The basics.
+\newblock Curso Online.
+
+\bibitem[Lees-Miller, 2015b]{miller2015_b}
+Lees-Miller, D.~J. (2015b).
+\newblock An interactive introduction to latex, part 2: Structured documents \&
+  more.
+\newblock Curso Online.
+
+\bibitem[Lees-Miller, 2015c]{miller2015_c}
+Lees-Miller, D.~J. (2015c).
+\newblock An interactive introduction to latex, part 3: Not just papers,
+  presentations \& more.
+\newblock Curso Online.
+
+\bibitem[Lucatelli et~al., 2016]{latex_lucatelli}
+Lucatelli, G., Ramos, L.~G., and Becker, M.~V. (2016).
+\newblock Minicurso latex.
+\newblock Curso de curta duração.
+
+\bibitem[Overleaf, 2017]{overleaf}
+Overleaf (2017).
+\newblock {Real-time Collaborative Writing and Publishing Tools with Integrated
+  PDF Preview}.
+\newblock \url{https://www.overleaf.com/latex/templates/}.
+\newblock [Online].
+
+\bibitem[{Stack Exchange}, 2017]{tex_s_e}
+{Stack Exchange} (2017).
+\newblock \url{https://tex.stackexchange.com/}.
+\newblock [Online].
+
+\bibitem[{Wikibooks}, 2016]{wikibooks}
+{Wikibooks} (2016).
+\newblock Latex.
+\newblock \url{https://en.wikibooks.org/wiki/LaTeX}.
+\newblock [Online].
+
+\end{thebibliography}

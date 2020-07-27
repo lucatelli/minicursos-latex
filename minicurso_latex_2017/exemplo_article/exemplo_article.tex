@@ -1,0 +1,86 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	left=20mm,
+	top=20mm,
+	bottom=20mm,
+	right=20mm
+}
+%\usepackage[a4paper,total={15.0cm,20.0cm}]{geometry}
+\usepackage{amsmath}
+\usepackage{mathtext, amsfonts,amssymb,amsmath,amsthm}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage{ebgaramond-maths}
+\usepackage{blindtext}
+%\usepackage{tikz-3d}
+\usepackage[colorinlistoftodos]{todonotes}
+% \usepackage{cite}
+\usepackage[sort]{natbib} 
+\usepackage[pdftex,colorlinks=true,
+citecolor=green,linkcolor=blue]{hyperref}
+%\usepackage{lmodern}
+%\usepackage{microtype}
+\newcommand{\lH}[1]{\rule{\linewidth}{#1}}
+
+\newcommand{\D}[2]{\frac{d #1}{d #2}}
+\newenvironment{abstract1}{
+	\thispagestyle{empty}
+	\begin{center}
+		\bigskip
+		{\huge\textit{Abstract} \par}
+		\bigskip
+	\end{center}}
+	
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{{\fontsize	{16pt}{10.0}\selectfont  Minicurso \LaTeX}\\
+	{\fontsize{12pt}{10.0}\selectfont  X Safis.} \\
+	\lH{0.07cm}}
+\author{\sc Nome Sobrenome$^{\dagger}$}
+\date{}	
+\maketitle
+
+\begin{center}
+	 {(Artigo submetido para ...)} \\[2mm]
+		${^\dagger}$Instituto de Matemática, Estatística e Física - Imef \\
+			Universidade Federal do Rio Grande - FURG, Rio Grande/RS, Brasil \\
+	\texttt{\url{e-mail@mail.com}}
+%	\date{\today}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{abstract}
+	Este modelo de artigo foi desenvolvido no Minicurso de \LaTeX na X Semana Acadêmica de Física.
+\end{abstract}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{\sc Introdução}
+
+De acordo com \cite{saf}, no ano de 2017 foi realizada a 10ª Acadêmica da Física da FURG.
+
+As galáxias \citet{1998ken}.
+
+O livro \cite{b1}\todo{Este livro bom}.
+%\blindtext[5]
+\todo[inline]{asfsafas}
+\begin{align}
+\D{f}{x}
+\end{align}
+%\bibliography{references}
+%\bibliography{references2}
+%\thispagestyle{empty}
+%\bibliographystyle{apalike}
+%\nocite{*}
+
+\end{document}

@@ -1,0 +1,6 @@
+\frametitle{Teses}\framesubtitle {Capa e Título}
+Resultado:
+\begin{center}
+\includegraphics[width=0.60\textwidth]{tese_model.jpg}
+% \captionof{figure}{}
+\end{center}

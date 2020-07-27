@@ -1,0 +1,3 @@
+# Minicursos de LaTeX
+
+Neste repositório se encontram três minicursos de LaTeX, ministrados nos anos de 2016, 2017 e 2018. 

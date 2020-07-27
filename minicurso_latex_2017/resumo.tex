@@ -1,0 +1,58 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{graphicx}
+\usepackage[brazil]{babel}
+\usepackage[pdftex,colorlinks=true,
+citecolor=green,linkcolor=blue]{hyperref}
+
+\author{Fernanda V. \emph{\&} Geferson L.}
+\title{Minicurso: Introdução ao \LaTeX}
+\usepackage{verbatim}
+\begin{document}
+\maketitle
+\begin{abstract}
+					\LaTeX\ é um editor de textos de alta qualidade tipográfica e de robusta formatação. 
+					Vem sendo muito utilizado pela academia científica mas está se estendendo 
+					a mais áreas do conhecimento. O minicurso tem o objetivo de introduzir 
+					a linguagem \LaTeX\ , expondo sua estrutura básica, os 
+					principais comandos utilizados, o ambiente matemático e como criar e  
+					lidar com citações e referências bibliográficas. Também será mostrado como criar e 
+					editar uma apresentação no ambiente beamer (análogo ao Power Point). 
+					Além disso, o minicurso fornecerá um
+					panorama geral de maneiras para se produzir documentos científicos, tais como artigos e livros, 
+					no formato padrão das revistas de publicações.
+					Espera-se que no final do 
+					minicurso, os alunos tenham adquirido uma ideia geral do funcionamento do \LaTeX\ 
+					e que estejam aptos a criar documentos e apresentações com fórmulas 
+					matemáticas e controle de referências.
+\end{abstract}
+\section*{Instalando o \LaTeX}
+\subsection*{Usuários Linux (recomendado)}
+		 Para instalar o texlive-full, que são todos os pacotes necessários da base \TeX 
+		 para compilar os documentos, abra o terminal e digite: 
+		\begin{verbatim}
+		sudo apt install texlive-full.
+		\end{verbatim}
+		Há três compiladores muito usados:  TexStudio (recomendado), Kile e  TexMaker. Para 
+		instalar, digite no terminal
+		\begin{verbatim}
+		sudo apt install texstudio ou kile ou texmaker.
+		\end{verbatim}
+		O TexStudio e o TexMaker possuem um visualizador de pdf embutido! 
+		
+\subsection*{Usuários Windows}
+Instalar o {\bf texlive-full} da base \TeX, vá em \url{https://www.tug.org/texlive/acquire-netinstall.html},
+baixe e execute o arquivo ``{\bf install-tl-windows.exe}''. Siga as instruções de instalação para o 
+pacote completo (maior que 4 Gb). Se tiver problemas na instalação, é possível baixar o arquivo .iso 
+completo da base \TeX ($\sim 4$GB), extraia e execute o instalador. 
+
+Após, baixe e instale o Texstudio \url{http://www.texstudio.org/}.
+
+\section*{Dúvidas}
+Qualquer dúvida, envie um e-mail em conjunto para \underline{gefersonlucatelli@gmail.com} 
+e \underline{fervanucci@gmail.com}.
+\end{document}

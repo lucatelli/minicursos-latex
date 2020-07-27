@@ -1,0 +1,14 @@
+\frametitle{\LaTeX \ Sources}
+\begin{itemize}
+		\setlength\itemsep{0.3cm}
+		\item o mundo \LaTeX\ é bastante vasto,
+		\item recomendamos à todos o acesso a principalmente quatro fontes que nos auxiliam na construção de documentos \LaTeX:
+		\begin{enumerate}
+			\item Google (\url{https://www.google.com});
+			\item Overleaf (\url{https://www.overleaf.com/});
+			\item Tex (\url{http://tex.stackexchange.com/});
+			\item ShareLaTeX (\url{https://www.sharelatex.com});
+		\end{enumerate}
+
+	\end{itemize}
+

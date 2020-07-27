@@ -1,0 +1,15 @@
+\frametitle{\sc O pacote \texttt {cleveref}}
+\begin{itemize}
+\item Note que o pacote automaticamente adiciona {\color{blue} eqs.}, os numeros das equações {\color{blue} inicial} e {\color{blue}final} referenciadas além da conjunção {\color{blue} to}. A linguagem padrão do pacote é inglês.
+\item Para modificar as conjunções para português, basta renovar os comandos no preâmbulo:
+\begin{verbatim}
+\newcommand{\crefrangeconjunction}{}
+%Para varias referências (ex: eqs. 5 à 10)
+\newcommand{\crefmiddleconjunction}{}
+%Para equações não consecutivas (ex:eqs 3, 5 e 10)
+\newcommand{\crefpairconjunction}{}
+%Para pares de referências (ex:eqs. 3 e 4)
+\end{verbatim}
+Com a conjunção desejada entre parênteses.
+
+\end{itemize}
